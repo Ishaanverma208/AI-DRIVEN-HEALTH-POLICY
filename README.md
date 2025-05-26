@@ -28,7 +28,8 @@
 ---
 
 ## 📊 Demo Screenshot
-![Screenshot](screenshot.png) <!-- Add your screenshot file in repo -->
+!-- Add your screenshot file in repo -->
+![image](https://github.com/user-attachments/assets/656ec467-9b35-4ddf-a68a-de37468a8b85)
 
 ---
 
